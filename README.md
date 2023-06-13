@@ -8,25 +8,8 @@
 7. Có thể chơi Set Seed hoặc Random Seed
 8. Được Crack
 9. Vì ở PE/BE và PC cũng như các phiên bản game có sự khác biệt rõ rệt nên sẽ tính theo các thành tựu sau ở mọi phiên bản bạn chơi: 
-- Taking Inventory
-- Getting Wood
-- Benchmaking
-- Time to Mine!
-- Hot Topic
-- Acquire Hardware
-- Time to Farm!
-- Bake Bread
-- The Lie
-- Getting an Upgrade
-- Delicious Fish
-- On A Rail
-- Time to Strike!
-- Monster Hunter
-- Cow Tipper
-- When Pigs Fly
-- Sniper Duel
-- DIAMONDS!
-- ...
+https://minecraft.fandom.com/wiki/Achievement
+
 (PE/BE hoặc các phiên bản không có một số thành tựu sẽ dựa vào Lý thuyết để tính các thành tựu)
 
 ========PC========
