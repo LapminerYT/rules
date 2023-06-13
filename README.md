@@ -11,7 +11,8 @@
 https://minecraft.fandom.com/wiki/Achievement
 
 (PE/BE hoặc các phiên bản không có một số thành tựu sẽ dựa vào Lý thuyết để tính các thành tựu)
-
+10. Bắt đầu tính timer khi bạn di chuyển/thao tác lần đầu tiên
+11. Kết thúc khi bạn đã hoàn thành 5 thành tựu
 ========PC========
 1. Sử dụng phiên bản Minecraft từ 1.8+
 2. Được phép sử dụng Farbic/Forge/Optifine
