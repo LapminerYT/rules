@@ -24,4 +24,6 @@
 # Cách tính giờ : 
 - Bắt đầu tính giờ ở lần di chuyển/thao tác đầu tiên
 - Kết thúc khi đã hoàn thành mục tiêu
-
+# ĐÁNG CHÚ Ý : 
+- Nếu bạn phá vỡ kỉ lục Set Seed 0m 04s 766ms bởi unsortiertes thì Win cả sự kiện
+- Nếu bạn phá vỡ kỉ lục Random Seed 0m 07s 112ms bởi Gianni135 thì win luôn cả sự kiện
