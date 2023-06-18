@@ -1,3 +1,4 @@
+
 # Luật
 - Quay toàn màn hình khi chơi game
 - Để lại seed của bạn dưới mô tả (hoặc sử dụng /seed sau khi hoàn thành màn chạy - Chỉ có ở Java)
@@ -18,7 +19,7 @@
 - Được chơi ở mọi độ khó (Easy/Normal/Hard/Hardcore/Peaceful)
 - Được chơi ở mọi phiên bản
 # Quy tắc khi gửi màn chạy : 
-- Mỗi 24 giờ chỉ có thể gửi một màn chạy
+- Được phép gửi thêm màn chạy để cải thiện
 - Không spam một màn chạy
 # Cách tính giờ : 
 - Bắt đầu tính giờ ở lần di chuyển/thao tác đầu tiên
