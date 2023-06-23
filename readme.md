@@ -12,4 +12,7 @@
 - Không tạo nhiều tài khoản hoặc sử dụng tài khoản của người khác.
 - Đừng cố mạo danh nhân viên.
 - Làm theo hướng dẫn của Admin/Owner
-
+# Câu hỏi thường gặp
+- Acc Crack có chơi được không?
+Vì để có nhiều người chơi nhất có thể , crack được cho phép trong server
+- 
