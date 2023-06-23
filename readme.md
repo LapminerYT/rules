@@ -14,5 +14,5 @@
 - Làm theo hướng dẫn của Admin/Owner
 # Câu hỏi thường gặp
 - Acc Crack có chơi được không?
-Vì để có nhiều người chơi nhất có thể , crack được cho phép trong server
++ Vì để có nhiều người chơi nhất có thể , crack được cho phép trong server
 - 
